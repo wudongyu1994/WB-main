@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1071865876</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\src\timer.c</file>
+      <file>$TOOLKIT_DIR$\config\multiplier.xcl</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\GPIO.pbi</file>
+      <file>$PROJ_DIR$\inc\LSD_RF_SX1276.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\LSD_RF_APPrf.pbi</file>
+      <file>$PROJ_DIR$\inc\led.h</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sys.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\LSD_RF_SX1276.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer.r43</file>
+      <file>$PROJ_DIR$\inc\flash.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdbool.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sx1276-f149-Hal.r43</file>
+      <file>$PROJ_DIR$\inc\sx1276-f149-Hal.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main_TX.r43</file>
+      <file>$PROJ_DIR$\inc\adc.h</file>
+      <file>$TOOLKIT_DIR$\config\lnk430F149.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main_TX.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\io430.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sys.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\adc.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\WB-7.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\LSD_RF_SX1276.r43</file>
+      <file>$TOOLKIT_DIR$\inc\io430x14x.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\GPIO.r43</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\inc\sys.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\stdint.h</file>
+      <file>$PROJ_DIR$\inc\GPIO.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\flash.pbi</file>
+      <file>$PROJ_DIR$\inc\LSD_RF_APPrf.h</file>
+      <file>$PROJ_DIR$\inc\sx1276-LoRa.h</file>
+      <file>$PROJ_DIR$\inc\timer.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\WB-7.3.d43</file>
+      <file>$PROJ_DIR$\Debug\Obj\sx1276-f149-Hal.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\led.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\LSD_RF_APPrf.r43</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\flash.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\led.pbi</file>
+      <file>$PROJ_DIR$\src\sx1276-f149-Hal.c</file>
+      <file>$PROJ_DIR$\src\sys.c</file>
+      <file>$PROJ_DIR$\src\led.c</file>
+      <file>$PROJ_DIR$\src\adc.c</file>
+      <file>$PROJ_DIR$\src\flash.c</file>
+      <file>$PROJ_DIR$\src\LSD_RF_APPrf.c</file>
+      <file>$PROJ_DIR$\src\GPIO.c</file>
+      <file>$PROJ_DIR$\src\LSD_RF_SX1276.c</file>
+      <file>$PROJ_DIR$\main_TX.c</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\src\timer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 36 25 45 2 35 28 21 12 32 37 14 24 31 23 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\WB-7.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 3 5 9 13 39 50 22 44 8 20</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\WB-7.3.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 19 1 33 47 30 27 49 46 17 15 26 10 34</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\sx1276-f149-Hal.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 36 25 45 2 35 28 21 12 32 37 14 24 31 23 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\sys.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36 25 45 2 35 28 21 12 32 37 14 24 31 23 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\led.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 46</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 24 31 23 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\adc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 36 25 45 2 35 28 21 12 32 37 14 24 31 23 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\flash.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 36 25 45 2 35 28 21 12 32 37 14 24 31 23 7</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 11 36 25 45 2 35 48 28 21 12 32 37 14 24 31 23 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\LSD_RF_APPrf.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40 36 25 45 2 35 28 21 12 32 37 14 24 31 23 7 41 16 4 42</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\GPIO.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38 36 25 45 2 35 28 21 12 32 37 14 24 31 23 7</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 38 36 25 45 2 35 48 28 21 12 32 37 14 24 31 23 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\LSD_RF_SX1276.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 30</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 36 25 45 2 35 28 21 12 32 37 14 24 31 23 7 41 16</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main_TX.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36 25 45 2 35 28 21 12 32 37 14 24 31 23 7 6 38 42 18 11 16 4 41 40</file>
+        </tool>
+        <tool>
+          <name>ICC430</name>
+          <file> 36 25 45 2 35 48 28 21 12 32 37 14 24 31 23 7 6 38 42 18 11 16 4 41 40</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 43</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
